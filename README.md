@@ -1,5 +1,5 @@
 # **Streamlit WEB**
-LINK : https://egyptian-car-plates-recognition-aivolution-team.streamlit.app/
+LINK : https://egyptian-car-plates-recognition-w3ny2mkzj9fdpmyzkw6plf.streamlit.app/
 
 Egyptian Car Plate Recognition System
 
