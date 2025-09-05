@@ -1,13 +1,7 @@
-📦 Installed Libraries Versions:
-
-Python              ==> 3.11.13
-PyTorch             ==> 2.6.0+cu124
-Ultralytics (YOLO)  ==> 8.3.191
-TensorFlow          ==> 2.18.0
-PaddleOCR           ==> 3.2.0
-EasyOCR             ==> 1.7.2
-OpenCV              ==> 4.11.0
-NumPy               ==> 1.26.4
-Pandas              ==> 2.2.3
-Matplotlib          ==> 3.7.2
-Pillow (PIL)        ==> 11.2.1
+streamlit
+torch
+ultralytics
+opencv-python-headless
+numpy
+gdown
+Pillow
